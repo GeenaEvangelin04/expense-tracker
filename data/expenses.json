@@ -1,0 +1,20 @@
+[
+    {
+        "name": "coffee",
+        "amount": 150.0,
+        "category": "Food",
+        "date": "2025-5-1"
+    },
+    {
+        "name": "rent",
+        "amount": 1200.0,
+        "category": "Home",
+        "date": "2025-5-2"
+    },
+    {
+        "name": "movie",
+        "amount": 250.0,
+        "category": "Fun",
+        "date": "2025-5-2"
+    }
+]
