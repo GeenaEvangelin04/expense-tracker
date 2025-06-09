@@ -16,5 +16,17 @@
         "amount": 250.0,
         "category": "Fun",
         "date": "2025-5-2"
+    },
+    {
+        "name": "colleague farewell",
+        "amount": 100.0,
+        "category": "Work",
+        "date": "2025-5-3"
+    },
+    {
+        "name": "Phone cover",
+        "amount": 170.0,
+        "category": "Misc",
+        "date": "2025-5-5"
     }
 ]
